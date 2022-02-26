@@ -1,7 +1,7 @@
 # Oster Countertop Toaster Oven
 ### By Allison Lee, 02/25/2022
 
-![toaster oven](ux-portfolio-anlee/assets/toaster_oven.jpg)
+![toaster oven](ux-portfolio-anlee/master/assets/toaster_oven.jpg)
 
 The Oster Toaster Oven is one of the best kitchen appliances I have owned. Despite the large counter space it takes up, this toaster oven is reliable and perfect for all sorts of recipes, ranging from cakes and cookies to chickens and potatoes. 
 
