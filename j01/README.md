@@ -1,3 +1,4 @@
-# First Journal Entry...
+# Oster Countertop Toaster Oven
+## By Allison Lee, 02/25/2022
 
-elpers pls
+![Image of Oster Toaster Oven Functions]()
