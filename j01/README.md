@@ -10,3 +10,4 @@ The toaster oven has 3 knobs total to control the temperature, the type of bake 
 Because of the lack of complexity, a user could pick up on how to use the toaster oven quickly; thus it has strong **learnablility**. For **safety** purposes, the red LED light at the bottom will light up when the toaster oven is on, and will turn off when the oven is off. With these elements combined, the **efficiency** with the toaster oven and **satisfaction** of the user is ensured since the user has control over the temperature and time, versus the arbitrary temperature control like a microwave with its "power" function or the arbitrary timer function that bread toasters have. 
 
 The Oster Toaster Oven offers a great user experience with how easy it is to learn and use and its overall versatility. 
+ 
