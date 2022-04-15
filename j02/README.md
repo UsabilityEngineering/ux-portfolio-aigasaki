@@ -1,1 +1,10 @@
+# The Apple TV
+### By Allison Lee, 04/15/2022
 
+![apple tv remote](https://raw.githubusercontent.com/UsabilityEngineering/ux-portfolio-anlee/master/assets/MQGE2.jpg)
+
+The Apple TV and more importantly, the first generation remote is one of the worst streaming devices I’ve ever had the displeasure of using. I went over to my grandparents’ house to download Discovery Plus on their device so that they could watch their favorite survival and cooking shows, but looking at the remote confused me. The physical design of the remote and box may seem appealing at first glance for its simplicity, but every other aspect of the design is difficult to use and navigate. 
+
+In terms of the remote, there is no clear D-pad, which is the series of buttons placed in a cross design to navigate up, down, left, or right, or even a designated “OK” button that users can press to confirm their choices. Instead, the remote relies on the user’s knowledge of using natural gestures, swiping right to go right, swiping left for left, and so on, similar to a trackpad on a laptop. Understandably, there is most likely a tutorial when using the Apple TV for the first time for how to use the remote, but as someone who used it for the first time at someone else’s house, using the remote was not learnable at first glance. The scroll/navigation is also dependent on how hard you swipe as well as how long you leave your finger on the edges; I find it far too sensitive, especially when I think of my grandparents trying to use this system. Trying to navigate to a specific app or option on the screen can be difficult in that sometimes you might scroll too far or too fast and have to correct it.
+
+Additionally, this remote does not have a “back” button or a “home” button that many other streaming device remotes may have. Instead, there is a button that says “menu” and a button with a symbol that represents a screen or a TV. I initially thought the TV button took me back to the home screen. However, it takes me to the Apple TV app instead, and for a long time, I confused this screen as the home screen. 
