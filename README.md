@@ -8,3 +8,5 @@
 ## UX Journal
 
 [Journal 1](j01/)
+
+[Journal 2](j02/)
