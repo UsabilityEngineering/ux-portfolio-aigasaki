@@ -3,7 +3,7 @@
 
 
 ## UX Team Project
-
+![Buddy Up](https://usabilityengineering.github.io/Buddy-Up/)
 
 ## UX Journal
 
